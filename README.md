@@ -53,3 +53,25 @@ normal text
 # Link
 
 Css Framework [Bootstrap](https://www.google.com/)
+
+
+## Singlie line code
+`print("hello world")
+```python
+for i in range(10):
+print(i)
+```
+```html
+<h1> Hello </h1>
+<p> Text </p>
+```
+```bash
+npm i express
+pip install cv2
+computer install
+```
+
+## Button
+
+<a href="https://www.google.com/"> Click On Me</a>
+
